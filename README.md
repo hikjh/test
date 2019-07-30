@@ -1,5 +1,5 @@
 # 여기는 한글 프로젝트 설명 페이지
-한국어 | [English]()
+한국어 | [English](https://github.com/kjh576/test/blob/master/README-EN.md)
 
 
 
